@@ -11,7 +11,7 @@ Download or clone the repository.
 Open the file in PyCharm, VS Code, or any Python IDE.
 
 Run the script
-
+Abandoned_Castle_Game.py
 
 Follow the on-screen instructions and try different choices to see all the possible endings!
 
